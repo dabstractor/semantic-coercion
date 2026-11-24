@@ -1,0 +1,19 @@
+Expression	Implied behavior
+Root cause analysis	Investigate underlying causes rather than symptoms.
+Due diligence	Independently investigate and verify before committing.
+Adversarial review	Actively seek defects, weaknesses, and counterexamples.
+Steelman	Construct the strongest version of an opposing argument.
+First-principles reasoning	Derive conclusions from fundamental facts.
+Burden of proof	Require supporting evidence before accepting claims.
+Chain of custody	Preserve traceability through successive operations.
+Defense in depth	Establish multiple independent safeguards.
+Fail closed	Default to a safe, restrictive state upon failure.
+Progressive disclosure	Reveal detail only as it becomes relevant.
+Scope containment	Prevent work from expanding beyond its objective.
+Exception-only reporting	Report deviations rather than routine successes.
+Least astonishment	Favor predictable behavior consistent with expectations.
+Exhaustive enumeration	Account for every member of a defined set.
+Differential diagnosis	Systematically distinguish between competing explanations.
+Pareto optimization	Seek improvements without unnecessarily sacrificing other objectives.
+Zero-based reasoning	Reevaluate from scratch rather than inheriting assumptions.
+Independent corroboration	Verify claims through separate sources of evidence.
